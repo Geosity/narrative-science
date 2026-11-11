@@ -1,0 +1,5 @@
+/dist/
+/NarrativeScience.zip
+/.NarrativeScience.zip.building
+__pycache__/
+.DS_Store
